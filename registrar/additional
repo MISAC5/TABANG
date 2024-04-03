@@ -1,0 +1,287 @@
+
+                        <div class="secondyear">
+                            <center><h4>Second Year</h4></center>
+                            <h5>First Semester</h5>
+                            <table>
+                                <tr>
+                                    <th style="font-size:13px">Subject Code</th>
+                                    <th style="font-size:13px">Subject Description</th>
+                                    <th style="font-size:13px">Schedule</th>
+                                    <th style="font-size:13px">Time</th>
+                                    <th style="font-size:13px">Units</th>
+                                </tr>
+                                <tr>
+                                    <td><input type="text" name="subject2ac"></td>
+                                    <td><input type="text" name="subject2ad"></td>
+                                    <td><input type="text" name="subject2as"></td>
+                                    <td><input type="text" name="subject2at"></td>
+                                    <td><input type="text" name="subject2au"></td>
+                                </tr>
+                                <tr>
+                                    <td><input type="text" name="subject2ac"></td>
+                                    <td><input type="text" name="subject2ad"></td>
+                                    <td><input type="text" name="subject2as"></td>
+                                    <td><input type="text" name="subject2at"></td>
+                                    <td><input type="text" name="subject2au"></td>
+                                </tr>
+                                <tr>
+                                    <td><input type="text" name="subject2ac"></td>
+                                    <td><input type="text" name="subject2ad"></td>
+                                    <td><input type="text" name="subject2as"></td>
+                                    <td><input type="text" name="subject2at"></td>
+                                    <td><input type="text" name="subject2au"></td>
+                                </tr>
+                                <tr>
+                                    <td><input type="text" name="subject2ac"></td>
+                                    <td><input type="text" name="subject2ad"></td>
+                                    <td><input type="text" name="subject2as"></td>
+                                    <td><input type="text" name="subject2at"></td>
+                                    <td><input type="text" name="subject2au"></td>
+                                </tr>
+                                <tr>
+                                    <td><input type="text" name="subject2ac"></td>
+                                    <td><input type="text" name="subject2ad"></td>
+                                    <td><input type="text" name="subject2as"></td>
+                                    <td><input type="text" name="subject2at"></td>
+                                    <td><input type="text" name="subject2au"></td>
+                                </tr>
+                            </table>
+<br>
+                            <h5>Second Semester</h5>
+                            <table>
+                                <tr>
+                                    <th style="font-size:13px">Subject Code</th>
+                                    <th style="font-size:13px">Subject Description</th>
+                                    <th style="font-size:13px">Schedule</th>
+                                    <th style="font-size:13px">Time</th>
+                                    <th style="font-size:13px">Units</th>
+                                </tr>
+                                <tr>
+                                    <td><input type="text" name="subject2bc"></td>
+                                    <td><input type="text" name="subject2bd"></td>
+                                    <td><input type="text" name="subject2bs"></td>
+                                    <td><input type="text" name="subject2bt"></td>
+                                    <td><input type="text" name="subject2bu"></td>
+                                </tr>
+                                <tr>
+                                    <td><input type="text" name="subject2bc"></td>
+                                    <td><input type="text" name="subject2bd"></td>
+                                    <td><input type="text" name="subject2bs"></td>
+                                    <td><input type="text" name="subject2bt"></td>
+                                    <td><input type="text" name="subject2bu"></td>
+                                </tr>
+                                <tr>
+                                    <td><input type="text" name="subject2bc"></td>
+                                    <td><input type="text" name="subject2bd"></td>
+                                    <td><input type="text" name="subject2bs"></td>
+                                    <td><input type="text" name="subject2bt"></td>
+                                    <td><input type="text" name="subject2bu"></td>
+                                </tr>
+                                <tr>
+                                    <td><input type="text" name="subject2bc"></td>
+                                    <td><input type="text" name="subject2bd"></td>
+                                    <td><input type="text" name="subject2bs"></td>
+                                    <td><input type="text" name="subject2bt"></td>
+                                    <td><input type="text" name="subject2bu"></td>
+                                </tr>
+                                <tr>
+                                    <td><input type="text" name="subject2bc"></td>
+                                    <td><input type="text" name="subject2bd"></td>
+                                    <td><input type="text" name="subject2bs"></td>
+                                    <td><input type="text" name="subject2bt"></td>
+                                    <td><input type="text" name="subject2bu"></td>
+                                </tr>
+                            </table>
+                        </div>
+<br>
+                        <div class="thirdyear">
+                        <center><h4>Third Year</h4></center>
+                        <h5>First Semester</h5>
+                        <table>
+                            <tr>
+                                <th style="font-size:13px">Subject Code</th>
+                                <th style="font-size:13px">Subject Description</th>
+                                <th style="font-size:13px">Schedule</th>
+                                <th style="font-size:13px">Time</th>
+                                <th style="font-size:13px">Units</th>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject3ac"></td>
+                                <td><input type="text" name="subject3ad"></td>
+                                <td><input type="text" name="subject3as"></td>
+                                <td><input type="text" name="subject3at"></td>
+                                <td><input type="text" name="subject3au"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject3ac"></td>
+                                <td><input type="text" name="subject3ad"></td>
+                                <td><input type="text" name="subject3as"></td>
+                                <td><input type="text" name="subject3at"></td>
+                                <td><input type="text" name="subject3au"></td>
+                            </tr>                            
+                            <tr>
+                                <td><input type="text" name="subject3ac"></td>
+                                <td><input type="text" name="subject3ad"></td>
+                                <td><input type="text" name="subject3as"></td>
+                                <td><input type="text" name="subject3at"></td>
+                                <td><input type="text" name="subject3au"></td>
+                            </tr>                            
+                            <tr>
+                                <td><input type="text" name="subject3ac"></td>
+                                <td><input type="text" name="subject3ad"></td>
+                                <td><input type="text" name="subject3as"></td>
+                                <td><input type="text" name="subject3at"></td>
+                                <td><input type="text" name="subject3au"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject3ac"></td>
+                                <td><input type="text" name="subject3ad"></td>
+                                <td><input type="text" name="subject3as"></td>
+                                <td><input type="text" name="subject3at"></td>
+                                <td><input type="text" name="subject3au"></td>
+                            </tr>
+                        </table>
+                        <br>
+                        <h5>Second Semester</h5>
+                        <table>
+                            <tr>
+                                <th style="font-size:13px">Subject Code</th>
+                                <th style="font-size:13px">Subject Description</th>
+                                <th style="font-size:13px">Schedule</th>
+                                <th style="font-size:13px">Time</th>
+                                <th style="font-size:13px">Units</th>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject3bc"></td>
+                                <td><input type="text" name="subject3bd"></td>
+                                <td><input type="text" name="subject3bs"></td>
+                                <td><input type="text" name="subject3bt"></td>
+                                <td><input type="text" name="subject3bu"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject3bc"></td>
+                                <td><input type="text" name="subject3bd"></td>
+                                <td><input type="text" name="subject3bs"></td>
+                                <td><input type="text" name="subject3bt"></td>
+                                <td><input type="text" name="subject3bu"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject3bc"></td>
+                                <td><input type="text" name="subject3bd"></td>
+                                <td><input type="text" name="subject3bs"></td>
+                                <td><input type="text" name="subject3bt"></td>
+                                <td><input type="text" name="subject3bu"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject3bc"></td>
+                                <td><input type="text" name="subject3bd"></td>
+                                <td><input type="text" name="subject3bs"></td>
+                                <td><input type="text" name="subject3bt"></td>
+                                <td><input type="text" name="subject3bu"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject3bc"></td>
+                                <td><input type="text" name="subject3bd"></td>
+                                <td><input type="text" name="subject3bs"></td>
+                                <td><input type="text" name="subject3bt"></td>
+                                <td><input type="text" name="subject3bu"></td>
+                            </tr>
+                        </table>
+                        </div>
+<br>
+                        <div class="fourthyear">
+                        <center><h4>Fourth Year</h4></center>
+                        <h5>First Semester</h5>
+                        <table>
+                            <tr>
+                                <th style="font-size:13px">Subject Code</th>
+                                <th style="font-size:13px">Subject Description</th>
+                                <th style="font-size:13px">Schedule</th>
+                                <th style="font-size:13px">Time</th>
+                                <th style="font-size:13px">Units</th>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject4ac"></td>
+                                <td><input type="text" name="subject4ad"></td>
+                                <td><input type="text" name="subject4as"></td>
+                                <td><input type="text" name="subject4at"></td>
+                                <td><input type="text" name="subject4au"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject4ac"></td>
+                                <td><input type="text" name="subject4ad"></td>
+                                <td><input type="text" name="subject4as"></td>
+                                <td><input type="text" name="subject4at"></td>
+                                <td><input type="text" name="subject4au"></td>
+                            </tr>                            
+                            <tr>
+                                <td><input type="text" name="subject4ac"></td>
+                                <td><input type="text" name="subject4ad"></td>
+                                <td><input type="text" name="subject4as"></td>
+                                <td><input type="text" name="subject4at"></td>
+                                <td><input type="text" name="subject4au"></td>
+                            </tr>                            
+                            <tr>
+                                <td><input type="text" name="subject4ac"></td>
+                                <td><input type="text" name="subject4ad"></td>
+                                <td><input type="text" name="subject4as"></td>
+                                <td><input type="text" name="subject4at"></td>
+                                <td><input type="text" name="subject4au"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject4ac"></td>
+                                <td><input type="text" name="subject4ad"></td>
+                                <td><input type="text" name="subject4as"></td>
+                                <td><input type="text" name="subject4at"></td>
+                                <td><input type="text" name="subject4au"></td>
+                            </tr>
+                        </table>
+                        <br>
+                        <h5>Second Semester</h5>
+                        <table>
+                            <tr>
+                                <th style="font-size:13px">Subject Code</th>
+                                <th style="font-size:13px">Subject Description</th>
+                                <th style="font-size:13px">Schedule</th>
+                                <th style="font-size:13px">Time</th>
+                                <th style="font-size:13px">Units</th>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject4bc"></td>
+                                <td><input type="text" name="subject4bd"></td>
+                                <td><input type="text" name="subject4bs"></td>
+                                <td><input type="text" name="subject4bt"></td>
+                                <td><input type="text" name="subject4bu"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject4bc"></td>
+                                <td><input type="text" name="subject4bd"></td>
+                                <td><input type="text" name="subject4bs"></td>
+                                <td><input type="text" name="subject4bt"></td>
+                                <td><input type="text" name="subject4bu"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject4bc"></td>
+                                <td><input type="text" name="subject4bd"></td>
+                                <td><input type="text" name="subject4bs"></td>
+                                <td><input type="text" name="subject4bt"></td>
+                                <td><input type="text" name="subject4bu"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject4bc"></td>
+                                <td><input type="text" name="subject4bd"></td>
+                                <td><input type="text" name="subject4bs"></td>
+                                <td><input type="text" name="subject4bt"></td>
+                                <td><input type="text" name="subject4bu"></td>
+                            </tr>
+                            <tr>
+                                <td><input type="text" name="subject4bc"></td>
+                                <td><input type="text" name="subject4bd"></td>
+                                <td><input type="text" name="subject4bs"></td>
+                                <td><input type="text" name="subject4bt"></td>
+                                <td><input type="text" name="subject4bu"></td>
+                            </tr>
+                        </table>
+                        </div>
+
+
